@@ -1,0 +1,9 @@
+{
+  "name": "reactSite",
+  "version": "1.0.0",
+  "description": "build own react site",
+  "main": "index.js",
+  "author": "Yan Sun",
+  "license": "MIT",
+  "private": true
+}
