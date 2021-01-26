@@ -2,7 +2,7 @@ import React from 'react';
 import HelloWorld from './helloWorld.js';
 
 export default {
-  title: 'mainConcepts'
+  title: 'Main Concepts'
 };
 
 export const helloWorld = () => <HelloWorld/>
